@@ -3,4 +3,4 @@ Movies Project.
 
 Test RecyclerView and ListView with OkHttp, Picasso and Volley libraries.
 
-I'm using de Yify API: https://yts.to/api
+I'm using the Yify API: https://yts.to/api
