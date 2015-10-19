@@ -83,8 +83,8 @@ public class MovieListAdapter extends BaseAdapter {
 
 
     private static class ViewHolder{
-        ImageView coverImageView; // public by default
-        TextView titleTextView;
-        TextView ratingTextView;
+        public ImageView coverImageView;
+        public TextView titleTextView;
+        public TextView ratingTextView;
     }
 }
